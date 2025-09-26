@@ -32,7 +32,7 @@
       "bundleIdentifier": "com.chihabeddinedehbi.foodz",
       "googleServicesFile": "./GoogleService-Info.plist",
       "config": {
-        "googleMapsApiKey": "AIzaSyBlcffOcX6oFUg3LNGBmeuMlsES6nHuwTA"
+        "googleMapsApiKey": ""
       }
     },
     "android": {
@@ -40,7 +40,7 @@
       
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyBlcffOcX6oFUg3LNGBmeuMlsES6nHuwTA"
+          "apiKey": ""
         }
       },
       "adaptiveIcon": {
@@ -53,7 +53,7 @@
       "favicon": "./assets/favicon.png"
     },
     "extra": {
-      "googleMapsApiKey": "AIzaSyBlcffOcX6oFUg3LNGBmeuMlsES6nHuwTA",
+      "googleMapsApiKey": "",
       "eas": {
         "projectId": "43947b9b-dd48-4c0c-87c4-9136dc6283ec"
       }
