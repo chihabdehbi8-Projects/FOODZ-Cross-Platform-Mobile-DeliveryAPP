@@ -141,7 +141,17 @@ OpenRoute API → Routing & delivery optimization.
 - 🌍 Multi-language support.
 ---
 👨‍💻 Author
-Built by Chihab Eddine Dehbi — Biomedical Engineer & Full-Stack Developer.
+ - Built by Chihab Eddine Dehbi — Biomedical Engineer & Full-Stack Developer.
+---
+## 📄 License
+
+This project is licensed under **All Rights Reserved © 2025 Chihab Eddine Dehbi**.  
+It is shared publicly **for portfolio and demonstration purposes only**.  
+
+✅ You are free to explore the code and screenshots.  
+❌ You may **not** copy, modify, distribute, or use it in any way without my explicit written permission.  
+
+For collaboration or licensing inquiries, please reach out via [LinkedIn](https://www.linkedin.com/in/chihab-eddine-dehbi-755321366) or chihabdehbi8@gmail.com.
 ---
 ## 📸 Screenshots
 
@@ -156,6 +166,7 @@ Built by Chihab Eddine Dehbi — Biomedical Engineer & Full-Stack Developer.
    <img src="screenshots/7.PNG" alt="Admin Panel" width="200"/>
   <img src="screenshots/6.PNG" alt="Active Orders" width="200"/>
 </p>
+
 
 
 
