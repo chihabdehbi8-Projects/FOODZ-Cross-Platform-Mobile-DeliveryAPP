@@ -1,4 +1,4 @@
-# 🍔 Food Delivery App  
+# 🍔 FOODZ (Food Delivery App)  
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.74-blue?logo=react&logoColor=white)](https://reactnative.dev/)  
 [![Expo](https://img.shields.io/badge/Expo-51.0.0-black?logo=expo)](https://expo.dev/)  
@@ -142,3 +142,20 @@ OpenRoute API → Routing & delivery optimization.
 ---
 👨‍💻 Author
 Built by Chihab Eddine Dehbi — Biomedical Engineer & Full-Stack Developer.
+---
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/1.PNG" alt="Login Screen" width="200"/>
+  <img src="screenshots/2.PNG" alt="Signup Screen" width="200"/>
+  <img src="screenshots/3.PNG" alt="Home Screen" width="200"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/4.PNG" alt="Order Details" width="200"/>
+   <img src="screenshots/7.PNG" alt="Admin Panel" width="200"/>
+  <img src="screenshots/6.PNG" alt="Active Orders" width="200"/>
+</p>
+
+
+
